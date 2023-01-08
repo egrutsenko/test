@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 print("Why");
 print("Win");
+=======
+print("Hello World");
+print("How are you?");
+>>>>>>> parent of 2305f97 (Update Text.txt)
