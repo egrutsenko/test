@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 print("How are you?");
 print("Why");
+=======
+print("Hello World");
+>>>>>>> parent of f8056d6 (Update Text.txt)
